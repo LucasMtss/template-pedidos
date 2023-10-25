@@ -2,7 +2,7 @@
     "burguers": [
     {
         "id": "c07dbdee-6371-11ee-8c99-0242ac120002",
-        "name": "Clássico",
+        "name": "X-Burguer",
         "description": "Blend bovino de 180g, mussarela, bacon, ovo, catchup de goioaba no pão de milho",
         "price": 35,
         "previewImage": "menu-images/burguer.png",
@@ -10,7 +10,7 @@
     },
     {
         "id": "c66ae506-6371-11ee-8c99-0242ac120002",
-        "name": "Cheese Bacon",
+        "name": "X-Bacon",
         "description": "Blend bovino de 180g, cheddar, bacon, catchup de goioaba no pão de milho",
         "price": 33,
         "previewImage": "menu-images/burguer.png",
@@ -18,15 +18,15 @@
     },
     {
         "id": "cd2013d0-6371-11ee-8c99-0242ac120002",
-        "name": "Du Chef",
-        "description": "Blend bovino de 180g, cream cheese temperado, bacon glaceado no pão de milho",
+        "name": "X-Capirira",
+        "description": "Blend bovino de 180g, cheddar, bacon em fatias, ovo, catupiry",
         "price": 33,
         "previewImage": "menu-images/burguer.png",
         "image": "menu-images/burguer-big-image.png"
     },
     {
         "id": "d507d06a-6371-11ee-8c99-0242ac120002",
-        "name": "Gorgonzola",
+        "name": "X-Gorgonzola",
         "description": "Blend bovino de 180g, creme de gorgonzola, bacon, geléia de pimenta no pão de milho",
         "price": 34,
         "previewImage": "menu-images/burguer.png",
@@ -34,7 +34,7 @@
     },
     {
         "id": "da560960-6371-11ee-8c99-0242ac120002",
-        "name": "Costela",
+        "name": "X-Costela",
         "description": "150g de costela suína desfiada, queijo do reino, alface americana, cebola na rapadura, mostarda dijon no pão de milho",
         "price": 31,
         "previewImage": "menu-images/burguer.png",
@@ -42,7 +42,7 @@
     },
     {
         "id": "e0addc66-6371-11ee-8c99-0242ac120002",
-        "name": "Chicken",
+        "name": "X-Galinha",
         "description": "Hambúrguer de frango de 160g, queijo do reino, tomate grelhado, pesto de rúcula no pão de milho",
         "price": 29,
         "previewImage": "menu-images/burguer.png",
