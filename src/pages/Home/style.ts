@@ -3,6 +3,7 @@ import styled from "styled-components";
 export const Container = styled.main`
     width: 100%;
     max-width: 1200px;
+    padding-bottom: 32px;
 `
 
 export const Title = styled.h1`
