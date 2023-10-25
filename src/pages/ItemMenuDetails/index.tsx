@@ -26,7 +26,7 @@ export default function ItemMenuDetails() {
     <Container>
         <Header />
         <Title>{itemMenu.name}</Title>
-        <Image src={`../../public/${itemMenu.image}`} alt='Item menu' />
+        <Image src={itemMenu.image} alt='Item menu' />
         {
           itemMenu.description?.length ? (
             <Description>{itemMenu.description}</Description>
