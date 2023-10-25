@@ -34,6 +34,7 @@ export const Description = styled.p`
     margin-bottom: 16px;
     padding: 0 16px;
     color: #fff;
+    min-height: 60px;
 `
 
 export const Price = styled.p`
