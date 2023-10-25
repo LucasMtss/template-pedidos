@@ -6,7 +6,7 @@
         "description": "Blend bovino de 180g, mussarela, bacon, ovo, catchup de goioaba no pão de milho",
         "price": 35,
         "previewImage": "menu-images/burguer.png",
-        "image": "menu-images/burguer-big-image.png"
+        "image": "/menu-images/burguer-big-image.png"
     },
     {
         "id": "c66ae506-6371-11ee-8c99-0242ac120002",
@@ -14,7 +14,7 @@
         "description": "Blend bovino de 180g, cheddar, bacon, catchup de goioaba no pão de milho",
         "price": 33,
         "previewImage": "menu-images/burguer.png",
-        "image": "menu-images/burguer-big-image.png"
+        "image": "/menu-images/burguer-big-image.png"
     },
     {
         "id": "cd2013d0-6371-11ee-8c99-0242ac120002",
@@ -22,7 +22,7 @@
         "description": "Blend bovino de 180g, cheddar, bacon em fatias, ovo, catupiry",
         "price": 33,
         "previewImage": "menu-images/burguer.png",
-        "image": "menu-images/burguer-big-image.png"
+        "image": "/menu-images/burguer-big-image.png"
     },
     {
         "id": "d507d06a-6371-11ee-8c99-0242ac120002",
@@ -30,7 +30,7 @@
         "description": "Blend bovino de 180g, creme de gorgonzola, bacon, geléia de pimenta no pão de milho",
         "price": 34,
         "previewImage": "menu-images/burguer.png",
-        "image": "menu-images/burguer-big-image.png"
+        "image": "/menu-images/burguer-big-image.png"
     },
     {
         "id": "da560960-6371-11ee-8c99-0242ac120002",
@@ -38,7 +38,7 @@
         "description": "150g de costela suína desfiada, queijo do reino, alface americana, cebola na rapadura, mostarda dijon no pão de milho",
         "price": 31,
         "previewImage": "menu-images/burguer.png",
-        "image": "menu-images/burguer-big-image.png"
+        "image": "/menu-images/burguer-big-image.png"
     },
     {
         "id": "e0addc66-6371-11ee-8c99-0242ac120002",
@@ -46,7 +46,7 @@
         "description": "Hambúrguer de frango de 160g, queijo do reino, tomate grelhado, pesto de rúcula no pão de milho",
         "price": 29,
         "previewImage": "menu-images/burguer.png",
-        "image": "menu-images/burguer-big-image.png"
+        "image": "/menu-images/burguer-big-image.png"
     }
 ],
 "drinks": [
@@ -56,7 +56,7 @@
         "description": "",
         "price": 4,
         "previewImage": "menu-images/drink.png",
-        "image": "menu-images/drink-big-image.png"
+        "image": "/menu-images/drink-big-image.png"
     },
     {
         "id": "e0addc66-6371-11ee-8c99-0242ac120008",
@@ -64,7 +64,7 @@
         "description": "",
         "price": 6,
         "previewImage": "menu-images/drink.png",
-        "image": "menu-images/drink-big-image.png"
+        "image": "/menu-images/drink-big-image.png"
     },
     {
         "id": "e0addc66-6371-11ee-8c99-0242ac120007",
@@ -72,7 +72,7 @@
         "description": "",
         "price": 10,
         "previewImage": "menu-images/drink.png",
-        "image": "menu-images/drink-big-image.png"
+        "image": "/menu-images/drink-big-image.png"
     },
     {
         "id": "e0addc66-6371-11ee-8c99-0242ac120006",
@@ -80,7 +80,7 @@
         "description": "",
         "price": 15,
         "previewImage": "menu-images/drink.png",
-        "image": "menu-images/drink-big-image.png"
+        "image": "/menu-images/drink-big-image.png"
     }
 ]
 }
