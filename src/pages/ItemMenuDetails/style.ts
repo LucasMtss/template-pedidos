@@ -32,6 +32,7 @@ export const Description = styled.p`
     font-size: 24px;
     width: 100%;
     margin-bottom: 16px;
+    margin-top: -16px;
     padding: 0 16px;
     color: #fff;
     min-height: 60px;
