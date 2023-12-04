@@ -37,7 +37,7 @@ export default function Payment() {
     }
 
     function genereteLink(){
-        const baseUrl = 'https://wa.me/%2B5532991864842?text=';
+        const baseUrl = 'https://wa.me/%2B5532999700028?text=';
         const address = getAddress();
         let link = `Olá, meu nome é ${name} e gostaria de fazer um pedido:
 
